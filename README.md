@@ -9,7 +9,8 @@ Right now this SDK works with the **Type I Zones**, or the **Anchored Zones**, a
 
 Checkout the [demo apk](https://github.com/zeno-lab-dev/zeno-intro/releases/tag/zeno-demo-v0.3.0), a prebuilt app which demostrate the concept of the use of Anchored Zone. You can install and play with it in an Android phone (requires ARCore support).
 
-![zeno-demo](https://github.com/user-attachments/assets/fe4be503-b2ff-4fb0-a7ca-0ba464ec5677)
+![zeno-demo](https://github.com/user-attachments/assets/8dfe2549-592f-4054-b095-dbfb85ba5929)
+
 
 
 ## Future Plan
