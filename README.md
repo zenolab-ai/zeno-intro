@@ -22,5 +22,8 @@ As the first step, ZENO developer platform supports Unity right now. And for oth
 ## Get Started
 We are still preparing the ZENO Unity SDK repository. It will be available to use in the coming weeks.
 
+For now, we have prepared a [demo project](https://github.com/zenolab-ai/zeno-unity-demo) for a glance of how it looks like. Please take a look and play with it.
+It should work with latest ARKit supported iOS devices, and ARCore supported Android devices. 
+
 Please visit ZENO's [gitbook](https://zeno-lab.gitbook.io/story) for more background story.
 
