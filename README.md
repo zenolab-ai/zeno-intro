@@ -7,9 +7,10 @@ With ZENO's API and supporting components (UI, rendering, tooling, etc), develop
 
 Right now this SDK works with the **Type I Zones**, or the **Anchored Zones**, and supports zone creation, sharing, localizing, placement, navigation, occlusion etc. This feature is working as of today, and available for proof-of-concept testing, anytime, anywhere.
 
-Checkout the [demo apk](https://github.com/zeno-lab-dev/zeno-intro/releases/tag/zeno-demo-v0.3.0), a prebuilt app which demostrate the concept of the use of Anchored Zone. You can install and play with it in an Android phone (requires ARCore support).
+## Demos
+Checkout the [demo apk](https://github.com/zeno-lab-dev/zeno-intro/releases/tag/zeno-demo-v0.3.1), a prebuilt app which demostrate the concept of the use of Anchored Zone. You can install and play with it in an Android phone (requires ARCore support).
 
-![zeno-demo](https://github.com/user-attachments/assets/8dfe2549-592f-4054-b095-dbfb85ba5929)
+![gravity](https://github.com/user-attachments/assets/3d986885-381f-47a9-b56c-7ac961539f4e) ![littlesoldier](https://github.com/user-attachments/assets/c1c400ae-da06-4f02-acf6-9f2f69c5a753)
 
 
 
@@ -26,4 +27,3 @@ For now, we have prepared a [demo project](https://github.com/zenolab-ai/zeno-un
 It should work with latest ARKit supported iOS devices, and ARCore supported Android devices. 
 
 Please visit ZENO's [gitbook](https://zeno-lab.gitbook.io/story) for more background story.
-
